@@ -1,0 +1,516 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "9030CE0C-3C4B-41E3-892A-02A7B833B5C9"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8E959508-8E1C-4AEE-A7DA-BD1387978D46"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Artwork-SwiftUITests/Mock Api Service/MockApiService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "getArtworks(page:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8E959508-8E1C-4AEE-A7DA-BD1387978D46 - ccf598c349b81c7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Artwork_SwiftUITests.MockApiService.getArtworks(page: Swift.Int) -&gt; Combine.AnyPublisher&lt;Artwork_SwiftUI.DataListResponse&lt;Artwork_SwiftUI.Artwork&gt;, Moya.MoyaError&gt;"
+                  moduleName = "Artwork-SwiftUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jacob/Documents/Artwork-SwiftUI/Artwork-SwiftUITests/Mock%20Api%20Service/MockApiService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "2134">
+               </Location>
+               <Location
+                  uuid = "8E959508-8E1C-4AEE-A7DA-BD1387978D46 - ccf598c349b82bb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Artwork_SwiftUITests.MockApiService.getArtworks(page: Swift.Int) -&gt; Combine.AnyPublisher&lt;Artwork_SwiftUI.DataListResponse&lt;Artwork_SwiftUI.Artwork&gt;, Moya.MoyaError&gt;"
+                  moduleName = "Artwork-SwiftUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jacob/Documents/Artwork-SwiftUI/Artwork-SwiftUITests/Mock%20Api%20Service/MockApiService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "124">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "72925D5E-97B5-4304-AB0F-E726AEE3C7E2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Artwork-SwiftUITests/Mock Api Service/MockApiService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "getArtworks(page:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "72925D5E-97B5-4304-AB0F-E726AEE3C7E2 - ccf598c349b8120"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Artwork_SwiftUITests.MockApiService.getArtworks(page: Swift.Int) -&gt; Combine.AnyPublisher&lt;Artwork_SwiftUI.DataListResponse&lt;Artwork_SwiftUI.Artwork&gt;, Moya.MoyaError&gt;"
+                  moduleName = "Artwork-SwiftUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jacob/Documents/Artwork-SwiftUI/Artwork-SwiftUITests/Mock%20Api%20Service/MockApiService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "1007">
+               </Location>
+               <Location
+                  uuid = "72925D5E-97B5-4304-AB0F-E726AEE3C7E2 - ccf598c349b82bb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Artwork_SwiftUITests.MockApiService.getArtworks(page: Swift.Int) -&gt; Combine.AnyPublisher&lt;Artwork_SwiftUI.DataListResponse&lt;Artwork_SwiftUI.Artwork&gt;, Moya.MoyaError&gt;"
+                  moduleName = "Artwork-SwiftUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jacob/Documents/Artwork-SwiftUI/Artwork-SwiftUITests/Mock%20Api%20Service/MockApiService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "124">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EB4EEEA3-97D5-4B13-8A5A-6CF650152E7B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Artwork-SwiftUITests/Mock Api Service/MockApiService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "getArtworks(page:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EB4EEEA3-97D5-4B13-8A5A-6CF650152E7B - ccf598c349b804b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Artwork_SwiftUITests.MockApiService.getArtworks(page: Swift.Int) -&gt; Combine.AnyPublisher&lt;Artwork_SwiftUI.DataListResponse&lt;Artwork_SwiftUI.Artwork&gt;, Moya.MoyaError&gt;"
+                  moduleName = "Artwork-SwiftUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jacob/Documents/Artwork-SwiftUI/Artwork-SwiftUITests/Mock%20Api%20Service/MockApiService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "550">
+               </Location>
+               <Location
+                  uuid = "EB4EEEA3-97D5-4B13-8A5A-6CF650152E7B - ccf598c349b82bb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Artwork_SwiftUITests.MockApiService.getArtworks(page: Swift.Int) -&gt; Combine.AnyPublisher&lt;Artwork_SwiftUI.DataListResponse&lt;Artwork_SwiftUI.Artwork&gt;, Moya.MoyaError&gt;"
+                  moduleName = "Artwork-SwiftUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jacob/Documents/Artwork-SwiftUI/Artwork-SwiftUITests/Mock%20Api%20Service/MockApiService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "124">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E16754B3-3C17-402D-B793-0FD1C6D73353"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Artwork-SwiftUI/Store/Artwork List/ArtworkListReducer.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "artworkListReducer(state:action:environment:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "47919221-02F8-476F-A065-82AD06B91E05"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Artwork-SwiftUI/Store/Artwork List/ArtworkListReducer.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "artworkListReducer(state:action:environment:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DB053106-478E-422F-8975-D2167F2C0208"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Artwork-SwiftUI/Store/Artwork List/ArtworkListReducer.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "artworkListReducer(state:action:environment:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1A3B0E70-C0E1-43D5-B877-BCDF5CC4DF72"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Artwork-SwiftUITests/Artwork List/ArtworkListStateTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "1A3B0E70-C0E1-43D5-B877-BCDF5CC4DF72 - b376799eee61ce3f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in Artwork_SwiftUITests.ArtworkListStateTests.testSuccessfulFetchArtworksRefreshList() -&gt; ()"
+                  moduleName = "Artwork-SwiftUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jacob/Documents/Artwork-SwiftUI/Artwork-SwiftUITests/Artwork%20List/ArtworkListStateTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "363">
+               </Location>
+               <Location
+                  uuid = "1A3B0E70-C0E1-43D5-B877-BCDF5CC4DF72 - bfc80e39761b2f8c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Artwork_SwiftUITests.ArtworkListStateTests.testSuccessfulFetchArtworksRefreshList() -&gt; ()"
+                  moduleName = "Artwork-SwiftUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jacob/Documents/Artwork-SwiftUI/Artwork-SwiftUITests/Artwork%20List/ArtworkListStateTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "2976">
+               </Location>
+               <Location
+                  uuid = "1A3B0E70-C0E1-43D5-B877-BCDF5CC4DF72 - bfc80e39761b2f8c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Artwork_SwiftUITests.ArtworkListStateTests.testSuccessfulFetchArtworksRefreshList() -&gt; ()"
+                  moduleName = "Artwork-SwiftUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jacob/Documents/Artwork-SwiftUI/Artwork-SwiftUITests/Artwork%20List/ArtworkListStateTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "1849">
+               </Location>
+               <Location
+                  uuid = "1A3B0E70-C0E1-43D5-B877-BCDF5CC4DF72 - bfc80e39761b2fad"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Artwork_SwiftUITests.ArtworkListStateTests.testSuccessfulFetchArtworksRefreshList() -&gt; ()"
+                  moduleName = "Artwork-SwiftUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jacob/Documents/Artwork-SwiftUI/Artwork-SwiftUITests/Artwork%20List/ArtworkListStateTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "1201">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "192F55A4-3F0E-444E-BFBA-BA56B3961172"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Artwork-SwiftUITests/Artwork List/ArtworkListStateTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "192F55A4-3F0E-444E-BFBA-BA56B3961172 - b376799eee61cfdc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in Artwork_SwiftUITests.ArtworkListStateTests.testSuccessfulFetchArtworksRefreshList() -&gt; ()"
+                  moduleName = "Artwork-SwiftUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jacob/Documents/Artwork-SwiftUI/Artwork-SwiftUITests/Artwork%20List/ArtworkListStateTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "207">
+               </Location>
+               <Location
+                  uuid = "192F55A4-3F0E-444E-BFBA-BA56B3961172 - bfc80e39761b2f8c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Artwork_SwiftUITests.ArtworkListStateTests.testSuccessfulFetchArtworksRefreshList() -&gt; ()"
+                  moduleName = "Artwork-SwiftUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jacob/Documents/Artwork-SwiftUI/Artwork-SwiftUITests/Artwork%20List/ArtworkListStateTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "2976">
+               </Location>
+               <Location
+                  uuid = "192F55A4-3F0E-444E-BFBA-BA56B3961172 - bfc80e39761b2f8c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Artwork_SwiftUITests.ArtworkListStateTests.testSuccessfulFetchArtworksRefreshList() -&gt; ()"
+                  moduleName = "Artwork-SwiftUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jacob/Documents/Artwork-SwiftUI/Artwork-SwiftUITests/Artwork%20List/ArtworkListStateTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "1849">
+               </Location>
+               <Location
+                  uuid = "192F55A4-3F0E-444E-BFBA-BA56B3961172 - bfc80e39761b2fad"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Artwork_SwiftUITests.ArtworkListStateTests.testSuccessfulFetchArtworksRefreshList() -&gt; ()"
+                  moduleName = "Artwork-SwiftUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jacob/Documents/Artwork-SwiftUI/Artwork-SwiftUITests/Artwork%20List/ArtworkListStateTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "1201">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CCAEC350-3BB4-4B6B-91CD-900847A78CE5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Artwork-SwiftUITests/Artwork List/ArtworkListStateTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "CCAEC350-3BB4-4B6B-91CD-900847A78CE5 - bfc80e39761b2d9c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Artwork_SwiftUITests.ArtworkListStateTests.testSuccessfulFetchArtworksRefreshList() -&gt; ()"
+                  moduleName = "Artwork-SwiftUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jacob/Documents/Artwork-SwiftUI/Artwork-SwiftUITests/Artwork%20List/ArtworkListStateTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "1398">
+               </Location>
+               <Location
+                  uuid = "CCAEC350-3BB4-4B6B-91CD-900847A78CE5 - bfc80e39761b2eb5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Artwork_SwiftUITests.ArtworkListStateTests.testSuccessfulFetchArtworksRefreshList() -&gt; ()"
+                  moduleName = "Artwork-SwiftUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jacob/Documents/Artwork-SwiftUI/Artwork-SwiftUITests/Artwork%20List/ArtworkListStateTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "1151">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "45069D41-5562-414E-89B2-4E09D0B02FDB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Artwork-SwiftUITests/Artwork List/ArtworkListStateTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "45069D41-5562-414E-89B2-4E09D0B02FDB - bfc80e39761b2e94"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Artwork_SwiftUITests.ArtworkListStateTests.testSuccessfulFetchArtworksRefreshList() -&gt; ()"
+                  moduleName = "Artwork-SwiftUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jacob/Documents/Artwork-SwiftUI/Artwork-SwiftUITests/Artwork%20List/ArtworkListStateTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "1687">
+               </Location>
+               <Location
+                  uuid = "45069D41-5562-414E-89B2-4E09D0B02FDB - bfc80e39761b2eb5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Artwork_SwiftUITests.ArtworkListStateTests.testSuccessfulFetchArtworksRefreshList() -&gt; ()"
+                  moduleName = "Artwork-SwiftUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jacob/Documents/Artwork-SwiftUI/Artwork-SwiftUITests/Artwork%20List/ArtworkListStateTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "1151">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0A93BF26-9E6A-40AE-90E2-1A4C532AC9B8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Artwork-SwiftUITests/Mock Api Service/MockApiService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "getArtworks(page:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BCFCE7EF-CD64-4058-B5D3-787A846EC553"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Artwork-SwiftUITests/Mock Api Service/MockApiService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "getArtworks(page:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "777B020D-E08D-4131-9A91-593FED9EEBF6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Artwork-SwiftUITests/Artwork List/ArtworkListStateTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0D64CEE9-1C8B-4E6B-95F5-4F4354B515DE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Artwork-SwiftUITests/Artwork List/ArtworkListStateTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
