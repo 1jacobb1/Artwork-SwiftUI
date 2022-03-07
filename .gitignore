@@ -148,8 +148,8 @@ default.profraw
 vendor/bundle
 
 ## Custom ##
-Artwork-SwiftUI/Artwork-SwiftUITests/Mock Api Service/MockApiService.swift
-Artwork-SwiftUI/Artwork-SwiftUITests/Artwork List/ArtworkListStateTests.swift
+Artwork-SwiftUI/Artwork-SwiftUITests/
+Artwork-SwiftUITests/
 
 # End of https://www.gitignore.io/api/xcode,swift,cocoapods,objective-c
 
